@@ -1,2 +1,2 @@
 # b6-java
-tested
+tested java
